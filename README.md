@@ -1,2 +1,2 @@
-# OS_Scheduler
+# RoundRobin
 C implementation of Round Robin Scheduler
