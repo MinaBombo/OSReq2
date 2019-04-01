@@ -1,6 +1,6 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 3.5)
 PROJECT(OSReq2)
-set (CMAKE_C_STANDARD 11)
+SET (CMAKE_C_STANDARD 11)
 SET(IncludedFiles include/generic_queue.h include/round_robin.h include/process_struct.h
     include/process_queue.h include/io_utils.h )
 
